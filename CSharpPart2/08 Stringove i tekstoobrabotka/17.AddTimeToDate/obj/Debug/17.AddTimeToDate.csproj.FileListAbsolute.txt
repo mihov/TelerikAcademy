@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\bin\Debug\17.AddTimeToDate.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\bin\Debug\17.AddTimeToDate.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\bin\Debug\17.AddTimeToDate.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\obj\Debug\17.AddTimeToDate.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\obj\Debug\17.AddTimeToDate.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\17.AddTimeToDate\obj\Debug\17.AddTimeToDate.pdb

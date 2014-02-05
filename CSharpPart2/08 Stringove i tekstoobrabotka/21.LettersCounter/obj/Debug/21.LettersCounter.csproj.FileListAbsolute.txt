@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\bin\Debug\21.LettersCounter.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\bin\Debug\21.LettersCounter.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\bin\Debug\21.LettersCounter.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\obj\Debug\21.LettersCounter.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\obj\Debug\21.LettersCounter.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\21.LettersCounter\obj\Debug\21.LettersCounter.pdb

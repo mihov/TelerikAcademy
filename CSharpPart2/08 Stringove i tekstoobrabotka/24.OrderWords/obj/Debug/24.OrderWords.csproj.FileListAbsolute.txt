@@ -1,0 +1,5 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.pdb

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7f6714e316eef7a49a5f12260ad62fc2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - racingGUISkin: {fileID: 11400000, guid: 5dc14740ffb9a6b49929094d2f63ac7c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

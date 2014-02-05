@@ -1,0 +1,6 @@
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\bin\Debug\Fire.exe.config
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\bin\Debug\Fire.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\bin\Debug\Fire.pdb
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.pdb

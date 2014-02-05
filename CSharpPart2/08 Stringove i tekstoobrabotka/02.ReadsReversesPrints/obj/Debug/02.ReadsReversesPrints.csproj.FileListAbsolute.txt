@@ -1,0 +1,1 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\02.ReadsReversesPrints\bin\Debug\02.ReadsReversesPrints.exe.config

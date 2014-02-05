@@ -1,0 +1,5 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\25.HTMLExtractor\bin\Debug\25.HTMLExtractor.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\25.HTMLExtractor\bin\Debug\25.HTMLExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\25.HTMLExtractor\bin\Debug\25.HTMLExtractor.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\25.HTMLExtractor\obj\Debug\25.HTMLExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\25.HTMLExtractor\obj\Debug\25.HTMLExtractor.pdb

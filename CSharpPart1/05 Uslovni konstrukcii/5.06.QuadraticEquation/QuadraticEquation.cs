@@ -1,0 +1,70 @@
+﻿// 5.6. Write a program that enters the coefficients a, b and c of a quadratic equation
+// a*x2 + b*x + c = 0
+// and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.
+using System;
+
+    class QuadraticEquation
+    {
+        static void Main()
+        {
+            Console.WriteLine("Enter coefficients of a quadratic equation:");
+
+            // Read coefficient a
+            Console.Write("a = ");
+            double coeffA;
+            if (!(double.TryParse(Console.ReadLine(), out coeffA)))
+            {
+                Console.WriteLine("Unable to convert!");
+                Environment.Exit(0);                        // Close the application if unable to convert
+            }
+            else if (coeffA == 0)
+            {
+                Console.WriteLine("Coefficient A can not be zero!");
+                Environment.Exit(0);                        // Close the application if coefficient a = 0
+            }
+
+            // Read coefficient b
+            Console.Write("b = ");
+            double coeffB;
+            if (!(double.TryParse(Console.ReadLine(), out coeffB)))
+            {
+                Console.WriteLine("Unable to convert!");
+                Environment.Exit(0);                        // Close the application if unable to convert
+            }
+
+            // Read coefficient c
+            Console.Write("c = ");
+            double coeffC;
+            if (!(double.TryParse(Console.ReadLine(), out coeffC)))
+            {
+                Console.WriteLine("Unable to convert!");
+                Environment.Exit(0);                        // Close the application if unable to convert
+            }
+
+            // Declare variables
+            double discriminant;
+            double root1, root2;
+
+            //Calculating the discriminant
+            discriminant = coeffB * coeffB - 4 * coeffA * coeffC;
+
+            if (discriminant == 0)
+            {
+                root1 = root2 = -coeffB / (2 * coeffA);
+                Console.WriteLine("\nThe root is {0}.", root1);
+                Console.ReadLine();
+            }
+            else if (discriminant < 0) //If discriminant < 0, no solutions are possible
+            {
+                Console.WriteLine("\nThere are no real root.");
+                Console.ReadLine();
+            }
+            else //If discriminant > 0, there are two possible solutions
+            {
+                root1 = (-coeffB - Math.Sqrt(discriminant)) / (2 * coeffA);
+                root2 = (-coeffB + Math.Sqrt(discriminant)) / (2 * coeffA);
+                Console.WriteLine("\nRoots of quadratic equation are:");
+                Console.WriteLine("    root 1 = {0}\n    root 2 = {1}", root1, root2);
+            }
+        }
+    }

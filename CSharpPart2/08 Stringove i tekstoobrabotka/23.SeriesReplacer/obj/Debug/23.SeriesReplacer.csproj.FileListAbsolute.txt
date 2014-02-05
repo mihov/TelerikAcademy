@@ -1,0 +1,5 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\23.SeriesReplacer\bin\Debug\23.SeriesReplacer.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\23.SeriesReplacer\bin\Debug\23.SeriesReplacer.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\23.SeriesReplacer\bin\Debug\23.SeriesReplacer.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\23.SeriesReplacer\obj\Debug\23.SeriesReplacer.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\23.SeriesReplacer\obj\Debug\23.SeriesReplacer.pdb

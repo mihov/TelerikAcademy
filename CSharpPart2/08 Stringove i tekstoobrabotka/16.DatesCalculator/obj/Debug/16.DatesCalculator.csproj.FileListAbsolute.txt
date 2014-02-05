@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\bin\Debug\16.DatesCalculator.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\bin\Debug\16.DatesCalculator.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\bin\Debug\16.DatesCalculator.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\obj\Debug\16.DatesCalculator.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\obj\Debug\16.DatesCalculator.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\16.DatesCalculator\obj\Debug\16.DatesCalculator.pdb

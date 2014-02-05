@@ -1,0 +1,1 @@
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\08.ShortAsBinary\bin\Debug\08.ShortAsBinary.exe.config

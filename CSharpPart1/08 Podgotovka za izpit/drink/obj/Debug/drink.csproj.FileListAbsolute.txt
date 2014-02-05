@@ -1,0 +1,5 @@
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\drink\bin\Debug\drink.exe.config
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\drink\bin\Debug\drink.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\drink\bin\Debug\drink.pdb
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\drink\obj\Debug\drink.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\drink\obj\Debug\drink.pdb

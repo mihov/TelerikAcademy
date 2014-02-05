@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\bin\Debug\20.PalindromeExtractor.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\bin\Debug\20.PalindromeExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\bin\Debug\20.PalindromeExtractor.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\obj\Debug\20.PalindromeExtractor.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\obj\Debug\20.PalindromeExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\20.PalindromeExtractor\obj\Debug\20.PalindromeExtractor.pdb

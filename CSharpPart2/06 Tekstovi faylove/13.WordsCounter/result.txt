@@ -1,0 +1,8 @@
+ Words             | Counts
+==============================
+[jQuery         ] =>  12
+[JavaScript     ] =>   7
+[HTML           ] =>   3
+[CSS            ] =>   2
+[tutorials      ] =>   1
+[page           ] =>   1

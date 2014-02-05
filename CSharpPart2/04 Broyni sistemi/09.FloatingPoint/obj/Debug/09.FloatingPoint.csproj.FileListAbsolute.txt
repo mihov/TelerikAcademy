@@ -1,0 +1,6 @@
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\bin\Debug\09.FloatingPoint.exe.config
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\bin\Debug\09.FloatingPoint.exe
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\bin\Debug\09.FloatingPoint.pdb
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\obj\Debug\09.FloatingPoint.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\obj\Debug\09.FloatingPoint.exe
+E:\Projects\Telerik Academy\C# Part 2\HomeWork\04.NumeralSystems\09.FloatingPoint\obj\Debug\09.FloatingPoint.pdb

@@ -1,0 +1,6 @@
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\bin\Debug\BullsAndCows.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\bin\Debug\BullsAndCows.pdb
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.exe
+E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.pdb

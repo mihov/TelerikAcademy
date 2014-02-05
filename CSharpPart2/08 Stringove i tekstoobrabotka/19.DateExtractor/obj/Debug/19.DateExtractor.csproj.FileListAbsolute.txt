@@ -1,0 +1,5 @@
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\19.DateExtractor\bin\Debug\19.DateExtractor.exe.config
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\19.DateExtractor\bin\Debug\19.DateExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\19.DateExtractor\bin\Debug\19.DateExtractor.pdb
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\19.DateExtractor\obj\Debug\19.DateExtractor.exe
+D:\Projects\Telerik Academy\C Sharp Part 2\08.StringsAndTextProcessing\19.DateExtractor\obj\Debug\19.DateExtractor.pdb
