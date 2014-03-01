@@ -1,14 +1,14 @@
-﻿namespace ProblemBitArray64
+﻿/*
+ * 05. Define a class BitArray64 to hold 64 bit values inside an ulong value. 
+ * Implement IEnumerable<int> and Equals(…), GetHashCode(), [], == and !=.
+ */
+namespace ProblemBitArray64
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     class MainTest
     {
-        static void Main(string[] args)
+        static void Main()
         {
             BitArray64 num1 = new BitArray64(1024);
             BitArray64 num2 = new BitArray64(byte.MaxValue);

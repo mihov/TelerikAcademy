@@ -1,4 +1,4 @@
-﻿/*
+﻿/* 01 - 04
  * 01. Define a class Student, which contains data about a student – 
  * first, middle and last name, SSN, permanent address, mobile phone,
  * e-mail, course, specialty, university, faculty. 
