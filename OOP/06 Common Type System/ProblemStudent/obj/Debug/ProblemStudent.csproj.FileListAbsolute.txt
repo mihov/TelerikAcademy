@@ -1,0 +1,6 @@
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\bin\Debug\ProblemStudent.exe.config
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\obj\Debug\ProblemStudent.csprojResolveAssemblyReference.cache
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\bin\Debug\ProblemStudent.exe
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\bin\Debug\ProblemStudent.pdb
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\obj\Debug\ProblemStudent.exe
+E:\Tancho\Telerik Academy\OOP\Home Work\06 Common Type System\ProblemStudent\obj\Debug\ProblemStudent.pdb

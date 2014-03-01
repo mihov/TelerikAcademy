@@ -1,0 +1,6 @@
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\bin\Debug\EuclideanCoordinateSystem.exe.config
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\bin\Debug\EuclideanCoordinateSystem.exe
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\bin\Debug\EuclideanCoordinateSystem.pdb
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\obj\Debug\EuclideanCoordinateSystem.csprojResolveAssemblyReference.cache
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\obj\Debug\EuclideanCoordinateSystem.exe
+E:\Tancho\Telerik Academy\OOP\Home Work\DefiningClassesPart2\EuclideanCoordinateSystem\obj\Debug\EuclideanCoordinateSystem.pdb
