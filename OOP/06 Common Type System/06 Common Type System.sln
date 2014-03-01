@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - 04 Student", "Problem 01 - 04 Student.csproj", "{A9919247-58B5-4B6A-BB91-FDB277C51DA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - 04 Student", "ProblemStudent\Problem 01 - 04 Student.csproj", "{A9919247-58B5-4B6A-BB91-FDB277C51DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 05 BitArray64", "..\ProblemBitArray64\Problem 05 BitArray64.csproj", "{C8002710-0ED6-444D-9021-6DA5A13F6BA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 05 BitArray64", "ProblemBitArray64\Problem 05 BitArray64.csproj", "{C8002710-0ED6-444D-9021-6DA5A13F6BA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
