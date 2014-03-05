@@ -10,8 +10,8 @@ namespace TradeAndTravel
     {
         static void Main(string[] args)
         {
-            var engine = new Engine(new InteractionManager());
+            var engine = new Engine(new AdvanceInteractionManager());
             engine.Start();
         }
     }
-}
+}     
