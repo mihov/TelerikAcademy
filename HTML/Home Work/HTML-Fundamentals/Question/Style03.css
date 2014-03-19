@@ -1,0 +1,19 @@
+﻿body {
+    background-image: url(background.png);
+}
+
+.disc {
+    list-style-type: disc;
+}
+
+p {
+    margin: 0 0 0 0;
+}
+
+.p_title {
+    font-style: italic;
+}
+
+.p_value {
+    padding-left: 2em;
+}
