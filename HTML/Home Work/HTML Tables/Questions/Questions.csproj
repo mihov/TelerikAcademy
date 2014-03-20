@@ -66,6 +66,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="02.Task.html" />
+    <Content Include="03.Task.html" />
+    <Content Include="Style03.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
