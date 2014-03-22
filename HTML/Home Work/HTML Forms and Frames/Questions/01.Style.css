@@ -1,0 +1,52 @@
+﻿body {
+	font-family:sans-serif;
+	font-size:small;
+}
+
+table {
+    border: 1px solid gray;
+    width: 500px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid gray;
+    padding: 2px 4px 2px 4px;
+}
+
+input {
+    width: 95%;
+}
+
+textarea {
+    width: 95%;
+}
+
+select {
+	width:95%;
+}
+
+.left {
+    text-align: right;
+    width: 150px;
+}
+
+.right {
+    text-align: left;
+}
+
+.state {
+    width: 50px;
+}
+
+.codes {
+	width:50px
+}
+
+.number {
+	width:180px;
+}
+
+.short {
+	width:30px;
+}
