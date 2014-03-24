@@ -9,35 +9,33 @@
     <form action="#" method="get">
         <table>
             <tr>
-                <td class="left"><label for="lastName"></label>Last Name</td>
+                <td class="left"><label for="lastName">Last Name</label></td>
                 <td class="right" colspan="3"><input type="text" name="lastName" value="Nakov" id="lastName" /></td>
             </tr>
             <tr>
-                <td class="left"><label for="firstName"></label>First Name</td>
+                <td class="left"><label for="firstName">First Name</label></td>
                 <td class="right" colspan="3"><input type="text" name="firstName" value="Svetlin" id="firstName" /></td>
             </tr>
             <tr>
-                <td class="left"><label for="address"></label>Address</td>
+                <td class="left"><label for="address">Address</label></td>
                 <td class="right" colspan="3">
                     <textarea name="address" id="address">
-                        17 Hristo Botev Str.
-                        floor 3, apt. 12
+                        17 Hristo Botev Str. floor 3, apt. 12
                     </textarea>
                 </td>
             </tr>
-
             <tr>
-                <td class="left"><label for="city"></label>City</td>
+                <td class="left"><label for="city">City</label></td>
                 <td class="right"><input type="text" name="city" value="Kaspichan" id="city" /></td>
-                <td class="left state"><label for="state"></label>State</td>
+                <td class="left state"><label for="state">State</label></td>
                 <td class="right state"><input type="text" name="state" id="state" /></td>
             </tr>
             <tr>
-                <td class="left"><label for="zip"></label>Zip/Postal Code</td>
+                <td class="left"><label for="zip">Zip/Postal Code</label></td>
                 <td class="right" colspan="3"><input type="number" name="zip" value="9325" id="zip" /></td>
             </tr>
             <tr>
-                <td class="left"><label for="country"></label>Country</td>
+                <td class="left"><label for="country">Country</label></td>
                 <td class="right" colspan="3">
                     <select name="country" id="country">
                         <option value="Afghanistan">Afghanistan</option>
@@ -282,9 +280,8 @@
                     </select>
                 </td>
             </tr>
-
             <tr>
-                <td class="left"><label for="countryCode"></label>Phone (country code, area code, number)</td>
+                <td class="left"><label for="countryCode">Phone (country code, area code, number)</label></td>
                 <td class="right" colspan="3">
                     (+<input type="number" class="codes" name="countryCode" value="359" id="countryCode" />)
                     <input type="number" class="codes" name="areaCode" value="88" id="areaCode" /> -
@@ -292,22 +289,46 @@
                 </td>
             </tr>
             <tr>
-                <td class="left"><label for="email"></label>E-mail</td>
+                <td class="left"><label for="email">E-mail</label></td>
                 <td class="right" colspan="3"><input type="email" name="email" value="nakov@kaspichan.org" id="email" /></td>
             </tr>
 
             <tr>
-                <td class="left"><label for="month"></label>Birth date</td>
+                <td class="left"><label for="month">Birth date</label></td>
                 <td class="right" colspan="3">
                     Month <input class="short" type="number" name="month" value="06" id="month" />
                     Day <input class="short" type="number" name="day" value="14" id="day" />
-                    Year (4 digit) <input class="short" type="number" name="year" value="1980" id="year" />
+                    Year (4 digit) <input class="year" type="number" name="year" value="1980" id="year" />
                 </td>
             </tr>
-
-
-
-
+            <tr>
+                <td class="left"><label for="gender">Gender</label></td>
+                <td class="right" colspan="3">
+                    <select class="gender" name="gender" id="gender">
+                        <option value="Male">Male</option>
+                        <option value="Fmale">Fmale</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="left"><label for="Spring2006">Starting date</label></td>
+                <td class="right" colspan="3">
+                    <input class="radio" type="radio" name="startingDate" value="Spring2006" id="Spring2006" checked><label for="Spring2006"> Spring 2006</label>
+                    <input class="radio" type="radio" name="startingDate" value="Summer2006" id="Summer2006"><label for="Summer2006"> Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <td class="left"><label for="comments">Comments/Questions</label></td>
+                <td class="right" colspan="3">
+                    <textarea name="comments" id="comments" class="comments">Please send me more information about the lodring.</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td class="center" colspan="4">
+                    <input class="radio" type="submit" value="Submit" />
+                    <input class="radio" type="reset" value="Clear This Form" />
+                </td>
+            </tr>
         </table>
     </form>
 </body>
