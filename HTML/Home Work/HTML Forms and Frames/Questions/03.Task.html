@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="03.Style.css">
+    <title>Computers</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th colspan="2">
+                <a href="#">Apple</a>
+                <a href="#">Toshiba</a>
+                <a href="#">Lenovo</a>
+                <a href="#">Dell</a>
+                <a href="#">Asus</a>
+                <a href="#">Hacer</a>
+                <a href="#">HP</a>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                Min Price: <span id="minPrace">500</span>USD
+                <input type="range" id="minPriceSlider" min="0" max="1000" value="500" step="5" onchange="showValue(this.value)" />
+                <script type="text/javascript">
+                    function showValue(newValue) {
+                        document.getElementById("minPrace").innerHTML = newValue;
+                    }
+                </script>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

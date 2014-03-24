@@ -1,0 +1,23 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+table {
+    margin: auto;
+    width: 800px;
+}
+
+th {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: x-large;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-color:black;
+    border-bottom-width:2px;
+}
+
+    th a {
+        color: #00aff0;
+    }
