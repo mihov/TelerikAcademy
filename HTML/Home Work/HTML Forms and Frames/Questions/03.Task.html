@@ -20,18 +20,18 @@
         </tr>
         <tr>
             <td>
-                <table>
+                <table class="innerTable">
                     <tr>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -39,14 +39,14 @@
                         </td>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -56,14 +56,14 @@
                     <tr>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -71,14 +71,14 @@
                         </td>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -88,14 +88,14 @@
                     <tr>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -103,14 +103,14 @@
                         </td>
                         <td>
                             <fieldset>
-                                <legend>Apple Mack Book Air</legend>
+                                <legend class="center">Apple Mack Book Air</legend>
                                 <table class="box">
                                     <tr>
-                                        <td><img src="apple.png" width="177" height="109" alt="Apple Mack Book Air" /> </td>
-                                        <td>64GB SSD <br />2GB DDR </td>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
                                     </tr>
                                     <tr>
-                                        <td>1300 USD</td>
+                                        <td class="center">1300 USD</td>
                                         <td>Intel Core i5</td>
                                     </tr>
                                 </table>
@@ -119,7 +119,7 @@
                     </tr>
                 </table>
             </td>
-            <td>
+            <td class="rightCell">
                 <div>
                     Min Price: <span id="minPrace">500</span>USD
                     <input type="range" id="minPriceSlider" min="0" max="1000" value="500" step="5" onchange="showMinValue(this.value)" />
@@ -130,14 +130,33 @@
                     </script>
                 </div>
                 <div>
-                    Max Price: <span id="maxPrace">500</span>USD
-                    <input type="range" id="maxPriceSlider" min="0" max="1000" value="500" step="5" onchange="showMaxValue(this.value)" />
+                    Max Price: <span id="maxPrace">1500</span>USD
+                    <input type="range" id="maxPriceSlider" min="0" max="3000" value="1500" step="10" onchange="showMaxValue(this.value)" />
                     <script type="text/javascript">
                         function showMaxValue(newValue) {
                             document.getElementById("maxPrace").innerHTML = newValue;
                         }
                     </script>
                 </div>
+                <div>
+                    Min RAM: <span id="minRAM">4</span>GB
+                    <input type="range" id="minRAMSlider" min="0" max="8" value="4" step="1" onchange="showMinRAMValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMinRAMValue(newValue) {
+                            document.getElementById("minRAM").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+                <div>
+                    Max RAM: <span id="maxRAM">16</span>GB
+                    <input type="range" id="maxRAMSlider" min="0" max="32" value="16" step="1" onchange="showMaxRAMValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMaxRAMValue(newValue) {
+                            document.getElementById("maxRAM").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+
             </td>
         </tr>
     </table>

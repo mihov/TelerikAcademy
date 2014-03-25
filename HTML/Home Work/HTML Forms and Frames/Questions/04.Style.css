@@ -1,0 +1,49 @@
+﻿body {
+    font-family: Arial, Calibri;
+    font-size: smaller;
+}
+
+table {
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #e7e9eb;
+    background-color: #e7e9eb;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: #ffffff;
+    border: 1px solid #aeb5bb;
+    padding: 3px 3px 3px 3px;
+}
+
+th {
+    border: 1px solid #aeb5bb;
+    padding: 3px 3px 3px 3px;
+}
+
+.foot {
+    background-color: #e7e9eb;
+}
+
+.right {
+    text-align: right;
+    float: right;
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+
+a:active, a:hover, a:visited, a:link {
+    color: #333333;
+    text-decoration: none;
+    margin: 0 2px 0 2px;
+}
+
+.active {
+    border: 1px solid #c89369;
+    padding: 0 2px 0 2px;
+    border-radius: 3px;
+}
+
+.productID {
+    width: 20px;
+}
