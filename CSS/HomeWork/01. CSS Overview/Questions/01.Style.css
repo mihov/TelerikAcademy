@@ -1,0 +1,19 @@
+﻿body {
+    background-color:#595959;
+    font-size:14px;
+    font-family:Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+th {
+    text-align:left;
+    font-size:2em;
+
+    font-weight:lighter;
+    color:#bbb8b3;
+}
+
+.property {
+    font-size:1.4em;
+    font-style:italic;
+    color:#c3cdba;
+    vertical-align:top;
+}
