@@ -1,19 +1,40 @@
 ﻿body {
     background-color:#595959;
-    font-size:14px;
+    font-size:18px;
     font-family:Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    color:#bbb8b3;
 }
 th {
     text-align:left;
-    font-size:2em;
+    font-size:1.5em;
 
     font-weight:lighter;
-    color:#bbb8b3;
+
+}
+td {
+    padding-top:0.4em;
+    padding-bottom:0.4em;
 }
 
 .property {
-    font-size:1.4em;
     font-style:italic;
-    color:#c3cdba;
+    color:#d6dbd2;
     vertical-align:top;
+    padding-right:1.8em;
+}
+
+#support {
+    color:#ff0000;
+}
+
+p {
+    margin:0 0 0 0;
+}
+
+#email, #name, #link {
+    color:#e1d888
+}
+
+#status {
+    color:#ff6a00;
 }
