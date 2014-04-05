@@ -1,40 +1,40 @@
 ﻿body {
-    background-color:#595959;
-    font-size:18px;
-    font-family:Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    color:#bbb8b3;
+    background-color: #595959;
+    font-size: 18px;
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    color: #bbb8b3;
 }
+
 th {
-    text-align:left;
-    font-size:1.5em;
-
-    font-weight:lighter;
-
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: lighter;
 }
+
 td {
-    padding-top:0.4em;
-    padding-bottom:0.4em;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
 }
 
 .property {
-    font-style:italic;
-    color:#d6dbd2;
-    vertical-align:top;
-    padding-right:1.8em;
+    font-style: italic;
+    color: #d6dbd2;
+    vertical-align: top;
+    padding-right: 1.8em;
 }
 
 #support {
-    color:#ff0000;
+    color: #ff0000;
 }
 
 p {
-    margin:0 0 0 0;
+    margin: 0 0 0 0;
 }
 
 #email, #name, #link {
-    color:#e1d888
+    color: #e1d888;
 }
 
 #status {
-    color:#ff6a00;
+    color: #ff6a00;
 }
