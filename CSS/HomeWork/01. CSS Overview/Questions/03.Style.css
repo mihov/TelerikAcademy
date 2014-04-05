@@ -1,0 +1,73 @@
+﻿body {
+    background-color: #a9a9a9;
+}
+
+h1, nav {
+    text-align: center;
+}
+
+h1 {
+    color: #fafad2;
+}
+
+.current {
+    background-color: #d3d3d3;
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+}
+
+li {
+    list-style: none;
+}
+
+    li a {
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+        li a:visited {
+            color: #ffffff;
+        }
+
+    li:last-of-type {
+        text-decoration: underline;
+    }
+
+footer {
+    text-align: center;
+    font-size: small;
+}
+
+    footer a, a:visited {
+        color: #000000;
+        font-size: small;
+    }
+
+article header h1 {
+    text-align: left;
+    font-size: 25px;
+}
+
+article:nth-of-type(2n) {
+    display: none;
+}
+
+article footer {
+    text-align: left;
+    font-size: x-small;
+}
+
+
+    article footer a, a:visited {
+        color: #000000;
+        font-size: x-small;
+    }
+
+p {
+    overflow: hidden;
+    text-overflow: initial;
+    white-space: nowrap;
+}
