@@ -26,6 +26,7 @@ div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
 body {
     font: 14px normal Arial;
     color: white;
+    background-color: #9215f2;
 }
 
     body header {
@@ -79,12 +80,14 @@ body {
                     border-style: inset;
                 }
 
+
         body header nav {
             display: inline-block;
             width: 75%;
             margin: 20px 20px 20px 20px;
             padding: 12px;
-            border: 2px solid #000;
+            border: 1px solid #000;
+            border-radius: 15px;
         }
 
             body header nav ul.nav-list {
@@ -149,6 +152,8 @@ body {
             margin: 20px;
             padding: 20px;
             border: 1px solid black;
+            border-radius: 10px;
+            color: white;
         }
 
             body section article header {
@@ -160,6 +165,10 @@ body {
                     font-size: 1.4em;
                     padding: 0;
                 }
+
+            body section article a {
+                color: #cca3f8;
+            }
 
             body section article footer {
                 padding: 5px;
@@ -254,9 +263,25 @@ body {
         padding-bottom: 25px;
         padding-right: 0px;
         padding-left: 0px;
+        text-align: center;
     }
 
         body footer p {
             font-size: 1.2em;
             font-weight: bold;
         }
+
+header {
+    background: linear-gradient(#d593ff, #9215f2);
+}
+
+#btn-register {
+    background-color: #b35ef3;
+    color: white;
+    border-top-color: white;
+}
+
+#tb-username, #tb-password {
+    background-color: #b35ef3;
+    color: white;
+}
