@@ -1,0 +1,63 @@
+﻿body {
+    background-color: #eeeeee;
+}
+
+h1 {
+    font-family: Calibri, 'Arial Narrow', 'Nimbus Sans L', sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-left:40px;
+}
+
+section {
+    display: block;
+    width: 350px;
+    height: auto;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    margin:35px;
+    padding:10px;
+
+}
+
+    section p {
+        font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+        font-size: 12px;
+        margin:10px;
+    }
+
+img {
+    float: left;
+    border: 1px solid #999999;
+    width: 130px;
+    height: 86px;
+    margin: 10px;
+}
+
+.buttons {
+    display: block;
+    text-align: right;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #cc0000;
+
+    margin-top: 15px;
+    padding: 0 10px 0 25px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.7em;
+
+    border-top: 2px solid #E38382;
+    border-right: 2px solid #650000;
+    border-bottom: 2px solid #650000;
+    border-left: 2px solid #9C2829;
+    background: #cc0000;
+    box-shadow: inset 15px 0 0 #8A0000;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
