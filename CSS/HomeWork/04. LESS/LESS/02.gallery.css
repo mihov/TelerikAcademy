@@ -1,0 +1,68 @@
+﻿* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #a3a3a3;
+  color: #ffffff;
+  margin: 0 auto;
+  padding: 50px;
+  position: relative;
+  width: 80%;
+}
+body a {
+  text-decoration: none;
+}
+body .hoverbox {
+  min-width: 512px;
+  cursor: default;
+  list-style: none;
+  padding-top: 370px;
+}
+body .hoverbox a {
+  cursor: default;
+}
+body .hoverbox a .preview {
+  display: none;
+}
+body .hoverbox a:hover .preview {
+  display: block;
+  position: fixed;
+  left: 10%;
+  top: 10px;
+  margin: auto;
+  z-index: 1;
+}
+body .hoverbox img {
+  background: #fff;
+  border-color: #aaa #ccc #ddd #bbb;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 2px;
+  vertical-align: top;
+  width: 102.4px;
+  height: 76.8px;
+}
+body .hoverbox li {
+  background: #eee;
+  border-color: #aaa #ccc #ddd #bbb;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  color: inherit;
+  display: inline-block;
+  float: left;
+  padding: 5px;
+  position: relative;
+}
+body .hoverbox .preview {
+  border-color: #aaa #ccc #ddd #bbb;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  width: 512px;
+  height: 384px;
+}
+/*# sourceMappingURL=02.gallery.css.map */
