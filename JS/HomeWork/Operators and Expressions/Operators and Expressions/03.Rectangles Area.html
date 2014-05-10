@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="03.Rectangles Area.js"></script>
+    <form action="/" method="post">
+        <p>Calculates rectangle’s area by given width and height.</p>
+        <div>
+            <label for="inputBoxWidth">Width: </label>
+        </div>
+        <div>
+            <input id="inputBoxWidth" type="number" name="width" value="0" placeholder="Enter width" />
+        </div>
+        <div>
+            <label for="inputBoxHeight">Height: </label>
+        </div>
+        <div>
+            <input id="inputBoxHeight" type="number" name="height" value="0" placeholder="Enter height" />
+        </div>
+
+        <input type="button" name="name" value="Calc area" onclick="calcRectangleArea()" />
+        <p id="result"></p>
+    </form>
+
+</body>
+</html>
