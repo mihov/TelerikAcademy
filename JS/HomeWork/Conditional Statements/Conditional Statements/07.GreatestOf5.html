@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function onGetMaximal() {
+            var coefficient1 = parseFloat(document.getElementById('coefficient1').value);
+            var coefficient2 = parseFloat(document.getElementById('coefficient2').value);
+            var coefficient3 = parseFloat(document.getElementById('coefficient3').value);
+            var coefficient4 = parseFloat(document.getElementById('coefficient4').value);
+            var coefficient5 = parseFloat(document.getElementById('coefficient5').value);
+            var result;
+            var maxmalValue = coefficient1;
+
+            if (maxmalValue < coefficient2) {
+                maxmalValue = coefficient2;
+            }
+            if (maxmalValue < coefficient3) {
+                maxmalValue = coefficient3;
+            }
+            if (maxmalValue < coefficient4) {
+                maxmalValue = coefficient4;
+            }
+            if (maxmalValue < coefficient5) {
+                maxmalValue = coefficient5;
+            }
+            result = maxmalValue;
+            result += " is the biggest number!";
+
+            document.getElementById('result').innerHTML = maxmalValue + ' is maximal value.';
+
+        }
+    </script>
+</head>
+<body>
+    <p>calculates and prints its real roots of a quadratic equation a*x2 + b*x + c = 0.</p>
+
+    <input type="text" id="coefficient1" placeholder="Enter coefficient 1" /><br />
+    <input type="text" id="coefficient2" placeholder="Enter coefficient 2" /><br />
+    <input type="text" id="coefficient3" placeholder="Enter coefficient 3" /><br />
+    <input type="text" id="coefficient4" placeholder="Enter coefficient 4" /><br />
+    <input type="text" id="coefficient5" placeholder="Enter coefficient b" /><br />
+
+    <button onclick="onGetMaximal()">Calculate</button>
+
+    <div id="result"></div>
+</body>
+</html>

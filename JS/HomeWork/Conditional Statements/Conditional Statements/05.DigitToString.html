@@ -1,0 +1,36 @@
+﻿<!--05. Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement.-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script>
+        function onDigitToString() {
+            var number1 = parseInt(document.getElementById('number1').value);
+            var result;
+
+            switch (number1) {
+                case 0: result = 'zero'; break;
+                case 1: result = 'one'; break;
+                case 2: result = 'two'; break;
+                case 3: result = 'three'; break;
+                case 4: result = 'four'; break;
+                case 5: result = 'five'; break;
+                case 6: result = 'six'; break;
+                case 7: result = 'seven'; break;
+                case 8: result = 'eight'; break;
+                case 9: result = 'nine'; break;
+                default: result = 'unknown'; break;
+            }
+
+            document.getElementById('number1').value = null;
+            document.getElementById('result').innerHTML = '<br />You wrote ' + result + '.';
+            
+        }
+    </script>
+    <title></title>
+</head>
+<body>
+    <p>Depending on the input shows the name of that digit.</p>
+    <input type="text" id="number1" onkeypress="onDigitToString()" />
+    <span id="result"></span>
+</body>
+</html>

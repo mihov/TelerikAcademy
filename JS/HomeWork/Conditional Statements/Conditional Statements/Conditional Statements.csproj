@@ -61,6 +61,10 @@
     <Content Include="02.ShowTheSign.html" />
     <Content Include="03.BiggestOfThreeIntegers.html" />
     <Content Include="04.Sort3RealValues.html" />
+    <Content Include="05.DigitToString.html" />
+    <Content Include="06.QuadraticEquation.html" />
+    <Content Include="07.GreatestOf5.html" />
+    <Content Include="08.ConvertsANumber.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,46 @@
+﻿<!--06 Write a script that enters the coefficients a, b and c of a quadratic equation
+        a*x2 + b*x + c = 0
+    and calculates and prints its real roots.
+    Note that quadratic equations may have 0, 1 or 2 real roots.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script>
+        function onClaculateRoots() {
+            var coefficientA = parseFloat(document.getElementById('coefficientA').value);
+            var coefficientB = parseFloat(document.getElementById('coefficientB').value);
+            var coefficientC = parseFloat(document.getElementById('coefficientC').value);
+            var result;
+            var d = coefficientB * coefficientB - 4 * coefficientA * coefficientC;
+
+            if (d < 0) {
+                result = 'The equasion has 0 real roots';
+            }
+            else if (d === 0) {
+                result = 'The equasion has 1 real root : x1 =';
+                result += (-coefficientB / (2 * coefficientA)).toPrecision(2);
+            }
+            else {
+                result = 'The equasion has 2 real roots: <br />x1 = ';
+                result += ((-coefficientB + Math.sqrt(d)) / (2 * coefficientA)).toPrecision(2);
+                result += "<br />x2 = ";
+                result += ((-coefficientB - Math.sqrt(d)) / (2 * coefficientA)).toPrecision(2);
+            }
+
+            document.getElementById('result').innerHTML = result;
+        }
+
+
+    </script>
+    <title></title>
+</head>
+<body>
+    <p>calculates and prints its real roots of a quadratic equation a*x2 + b*x + c = 0.</p>
+    <input type="text" id="coefficientA" placeholder="Enter coefficient a" />
+    <input type="text" id="coefficientB" placeholder="Enter coefficient b" />
+    <input type="text" id="coefficientC" placeholder="Enter coefficient c" />
+    <button onclick="onClaculateRoots()">Calculate</button>
+    <div id="result"></div>
+</body>
+</html>
