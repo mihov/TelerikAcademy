@@ -1,0 +1,43 @@
+﻿<!--01. Write an if statement that examines two integer variables 
+and exchanges their values if the first one is greater than the second one.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script>
+        function examines2Integer() {
+            var firstValue = parseInt(document.getElementById('firstInteger').value);
+            var secondValue = parseInt(document.getElementById('secondInteger').value);
+
+
+            if (firstValue > secondValue) {
+                var tempValue = firstValue;
+                firstValue = secondValue;
+                secondValue = tempValue;
+            }
+
+            var result = 'Value of first integer is ' +
+                firstValue +
+                '.<br />Value of second integer is ' +
+            secondValue + '.';
+            document.getElementById('result').innerHTML = result;
+        }
+    </script>
+    <title></title>
+</head>
+<body>
+    <p>Examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+    <div>
+        <label for="firstInteger">First value:</label><br />
+        <input type="text" id="firstInteger" name="name" value=" " />
+    </div>
+    <div>
+        <label for="secondInteger">First value:</label><br />
+        <input type="text" id="secondInteger" name="name" value=" " />
+    </div>
+    <div>
+        <input type="button" name="name" value="Exam" onclick="examines2Integer()" />
+    </div>
+    <span id="result"></span>
+</body>
+</html>
