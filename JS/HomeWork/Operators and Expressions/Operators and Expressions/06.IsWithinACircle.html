@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="06.IsWithinACircle.js"></script>
+    <form action="/" method="post">
+        <p>Checks if given point (x, y) is within a circle K(O, 5).</p>
+        <div>
+            <label for="inputBoxX">X: </label>
+        </div>
+        <div>
+            <input id="inputBoxX" type="number" name="coordinateX" value="0" placeholder="Enter width" />
+        </div>
+        <div>
+            <label for="inputBoxY">Y: </label>
+        </div>
+        <div>
+            <input id="inputBoxY" type="number" name="coordinateY" value="0" placeholder="Enter height" />
+        </div>
+
+        <input type="button" name="name" value="Check" onclick="isWithinCircle()" />
+        <p id="result"></p>
+    </form>
+</body>
+</html>

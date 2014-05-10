@@ -67,6 +67,10 @@
     <Content Include="04.IsThirdDigit7.js" />
     <Content Include="05.Bit3.html" />
     <Content Include="05.Bit3.js" />
+    <Content Include="06.IsWithinACircle.html" />
+    <Content Include="06.IsWithinACircle.js" />
+    <Content Include="07.IsPrime.html" />
+    <Content Include="07.IsPrime.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
