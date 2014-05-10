@@ -71,6 +71,10 @@
     <Content Include="06.IsWithinACircle.js" />
     <Content Include="07.IsPrime.html" />
     <Content Include="07.IsPrime.js" />
+    <Content Include="08.TrapezoidArea.html" />
+    <Content Include="08.TrapezoidArea.js" />
+    <Content Include="09.WhereIsThePoint.html" />
+    <Content Include="09.WhereIsThePoint.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

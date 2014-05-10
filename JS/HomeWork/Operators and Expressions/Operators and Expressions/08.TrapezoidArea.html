@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="08.TrapezoidArea.js"></script>
+    <form action="/" method="post">
+        <p>Write an expression that calculates trapezoid's area by given sides a and b and height h.</p>
+        <div>
+            <label for="sideA">Side a: </label>
+        </div>
+        <div>
+            <input id="sideA" type="number" name="sideA" value="0" placeholder="Enter width" />
+        </div>
+        <div>
+            <label for="sideB">Side b: </label>
+        </div>
+        <div>
+            <input id="sideB" type="number" name="sideB" value="0" placeholder="Enter height" />
+        </div>
+        <div>
+            <label for="height">Height: </label>
+        </div>
+        <div>
+            <input id="height" type="number" name="height" value="0" placeholder="Enter height" />
+        </div>
+        <input type="button" name="name" value="Check" onclick="calcTrapezoidArea()" />
+        <p id="result"></p>
+    </form>
+</body>
+</html>

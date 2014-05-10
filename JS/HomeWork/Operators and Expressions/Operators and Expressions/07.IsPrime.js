@@ -14,6 +14,4 @@ function isPrimeCheck() {
     }
 
     document.getElementById('result').innerHTML = result;
-
-
 }
