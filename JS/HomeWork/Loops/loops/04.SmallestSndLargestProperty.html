@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        div {
+            float: left;
+            margin-right: 20px;
+            border: 1px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="resultDocument"></div>
+    <div id="resultWindow"></div>
+    <div id="resultNavigator"></div>
+    <script>
+        // 04. Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects
+        var resultDocument = '';
+        for (var i in document) {
+            resultDocument += document[i] + '<br/>';
+        }
+
+        var resultWindow = '';
+        for (var i in window) {
+            resultWindow += window[i] + '<br/>';
+        }
+
+        var resultNavigator = '';
+        for (var i in navigator) {
+            resultNavigator += document[i] + '<br/>';
+        }
+
+        document.getElementById('resultDocument').innerHTML = '<h1>Document</h1>' + resultDocument;
+        document.getElementById('resultWindow').innerHTML = '<h1>Window</h1>' + resultWindow;
+        document.getElementById('resultNavigator').innerHTML = '<h1>Navigator</h1>' + resultNavigator;
+    </script>
+</body>
+</html>

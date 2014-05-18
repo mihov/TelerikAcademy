@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 3</title>
+    <script>
+        //03. Write a script that finds the max and min number from a sequence of numbers
+        var theArray = [3, 4, 5, 6, 7, 8, 9];
+
+        function findMinMax() {
+            var result = '<h1>Sequence of numbers: ';
+            for (var i in theArray) {
+                result += theArray[i] + ' ';
+            }
+            document.getElementById('array').innerHTML = result +'</h1>';
+            result = null;
+
+
+            var min = theArray[0];
+            var max = theArray[0];
+
+            for (var index in theArray) {
+                if (theArray[index] > max) {
+                    max = theArray[index];
+                }
+                if (theArray[index] < min) {
+                    min = theArray[index];
+                }
+                var result = "<h1>The min number is " + min + " and the max number is " + max + '</h1>';
+                document.getElementById('result').innerHTML = result;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1></h1>
+    <button onclick="findMinMax()">Find Min and Max</button>
+    <div id="array"></div>
+    <span id="result"></span>
+</body>
+</html>

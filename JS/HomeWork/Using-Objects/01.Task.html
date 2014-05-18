@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        .inner {
+            float: left;
+            display: block;
+            width: 150px;
+            height: 50px;
+        }
+
+        input {
+            width: 50px;
+        }
+    </style>
+    <title></title>
+    <script src="01.task.js"></script>
+</head>
+<body>
+    <fieldset>
+        <legend>Calc Distance Between (A-B)</legend>
+        <fieldset class="inner">
+            <legend>Point A Coordinates:</legend>
+            X: <input id="ax" type="text">
+            Y: <input id="ay" type="text">
+        </fieldset>
+        <fieldset class="inner">
+            <legend>Point B Coordinates:</legend>
+            X: <input id="bx" type="text">
+            Y: <input id="by" type="text">
+        </fieldset>
+        <fieldset class="inner">
+            <legend><button onclick="onCalcDistance()">Distance</button></legend>
+            <span id="distanceResult"></span>
+        </fieldset>
+    </fieldset>
+    <hr />
+    <fieldset>
+        <legend>Can form a triangle?</legend>
+        <fieldset>
+            <legend>Line 1</legend>
+            <fieldset class="inner">
+                <legend>Point A Coordinates:</legend>
+                X: <input id="line1x1" type="text">
+                Y: <input id="line1y1" type="text">
+            </fieldset>
+            <fieldset class="inner">
+                <legend>Point B Coordinates:</legend>
+                X: <input id="line1x2" type="text">
+                Y: <input id="line1y2" type="text">
+            </fieldset>
+        </fieldset>
+        <fieldset>
+            <legend>Line 2</legend>
+            <fieldset class="inner">
+                <legend>Point A Coordinates:</legend>
+                X: <input id="line2x1" type="text">
+                Y: <input id="line2y1" type="text">
+            </fieldset>
+            <fieldset class="inner">
+                <legend>Point B Coordinates:</legend>
+                X: <input id="line2x2" type="text">
+                Y: <input id="line2y2" type="text">
+            </fieldset>
+        </fieldset>
+        <fieldset>
+            <legend>Line 3</legend>
+            <fieldset class="inner">
+                <legend>Point A Coordinates:</legend>
+                X: <input id="line3x1" type="text">
+                Y: <input id="line3y1" type="text">
+            </fieldset>
+            <fieldset class="inner">
+                <legend>Point B Coordinates:</legend>
+                X: <input id="line3x2" type="text">
+                Y: <input id="line3y2" type="text">
+            </fieldset>
+        </fieldset>
+
+        <fieldset style="height:50px">
+            <legend><button onclick="onCanFormTriangle()">Can form a triangle?</button></legend>
+            <span id="triangleResult"></span>
+        </fieldset>
+    </fieldset>
+</body>
+</html>
