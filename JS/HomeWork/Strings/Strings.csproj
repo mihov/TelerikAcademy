@@ -59,10 +59,23 @@
   <ItemGroup>
     <Content Include="01.task.html" />
     <Content Include="01.task.js" />
+    <Content Include="04.task.html" />
+    <Content Include="04.task.js" />
     <Content Include="03.task.html" />
     <Content Include="03.task.js" />
     <Content Include="02.task.html" />
     <Content Include="02.task.js" />
+    <Content Include="07.task.html" />
+    <Content Include="07.task.js" />
+    <Content Include="06.task.html" />
+    <Content Include="06.task.js" />
+    <Content Include="05.task.html" />
+    <Content Include="05.task.js" />
+    <Content Include="08.task.html" />
+    <Content Include="09.task.html" />
+    <Content Include="10.task.html" />
+    <Content Include="11.task.html" />
+    <Content Include="12.task.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
