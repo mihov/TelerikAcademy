@@ -1,0 +1,38 @@
+﻿<!--04.Task Create a tag cloud:
+ Visualize a string of tags (strings) in a given container
+ By given minFontSize and maxFontSize, generate the
+tags with different font-size, depending on the number
+of occurrences-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>04.Task</title>
+    <style>
+        #wrapper {
+            position: relative;
+            margin: auto;
+            width: 300px;
+            border: 1px solid black;
+        }
+
+        button, textarea {
+            display: block;
+            margin: auto;
+            margin-bottom: 5px;
+            padding: 5px;
+        }
+
+        textarea {
+            width: 500px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <textarea id="tags">cms, javascript, js, ASP.NET MVC, .net, .net, css, wordpress, xaml, ASP.NET MVC, .net, javascript, http, web, asp.net, asp.net MVC, ASP.NET MVC, wp, javascript, js, cms, html, javascript, ASP.NET MVC, .net, http, http, CMS</textarea>
+    <button id="generate">Generate</button>
+    <div id="wrapper"></div>
+
+    <script src="04.Task.js"></script>
+</body>
+</html>
