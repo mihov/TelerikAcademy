@@ -4,3 +4,9 @@ E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\bin\Debug\BullsAn
 E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
 E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.exe
 E:\Projects\Telerik Academy\C# Part 1\izpit\Izpit\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache

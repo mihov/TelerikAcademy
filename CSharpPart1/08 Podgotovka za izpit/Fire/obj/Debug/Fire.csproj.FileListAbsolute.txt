@@ -4,3 +4,6 @@ E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\bin\Debug\Fire.pdb
 E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
 E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.exe
 E:\Projects\Telerik Academy\C# Part 1\izpit\izpit\Fire\obj\Debug\Fire.pdb
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\Fire\bin\Debug\Fire.exe.config
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\Fire\obj\Debug\Fire.exe
+C:\Users\tancho\Documents\GitHub\TelerikAcademy\CSharpPart1\08 Podgotovka za izpit\Fire\obj\Debug\Fire.pdb
