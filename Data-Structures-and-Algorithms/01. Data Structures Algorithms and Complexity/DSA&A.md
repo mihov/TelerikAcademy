@@ -2,7 +2,9 @@ Data Structures, Algorithms and Complexity Homework
 ===
 ***
 
-**Task 1.** What is the expected running time of the following C# code? Explain why.
+**Task 1.** 
+What is the expected running time of the following C# code?
+Explain why.
 Assume the array's size is n.
 
 ```cs
@@ -26,7 +28,8 @@ The complexity is __O(n^2)__, because for each n we will have n more operation o
 
 ***
 
-**Task 2.** What is the expected running time of the following C# code?
+**Task 2.** 
+What is the expected running time of the following C# code?
 Explain why.
 Assume the input matrix has size of n * m.
 
@@ -47,7 +50,8 @@ The complexity is __O(n*m)__, because for each row it loops for each column.
 
 ***
 
-**Task 3.**  What is the expected running time of the following C# code?
+**Task 3.**  
+What is the expected running time of the following C# code?
 Explain why.
 Assume the input matrix has size of n * m.
 
